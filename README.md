@@ -1,2 +1,2 @@
-# mygame
-# mygame
+# snake game with javascript, css & html
+
